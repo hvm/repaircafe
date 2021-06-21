@@ -5,7 +5,7 @@ Ongesorteerde, ruwe lijst van 'thema's' en bijbehorende spullen.
 * mondkapje
 
 ## Bewaren/beschrijven
-* bakjes voor schroeven, wat vellen papier
+* bakjes voor schroeven, wat zakjes
 * pen, papier, plakband (genummerde tekeningen maken, schroefjes op de juiste plek op de tekening tapen - ideaal voor laptops e.d.)
 * telefoon of tablet, voor de camera en internettoegang
 

@@ -1,3 +1,4 @@
+Ongesorteerde, ruwe lijst van 'thema's' en bijbehorende spullen. 
 
 # Persoonlijke bescherming
 * handschoenen

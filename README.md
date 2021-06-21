@@ -1,3 +1,3 @@
-# Repair Café-lijsten en andere gerelateerde informatie
+# Repair Café-zaken: lijsten, tips, verslagen
 
-Doe ermee wat je wil, geheel vrij van rechten (CC0).
+Doe ermee wat je wil, vrij van rechten (CC0).

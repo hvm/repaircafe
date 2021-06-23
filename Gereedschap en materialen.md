@@ -26,7 +26,6 @@ Ongesorteerde, ruwe lijst van 'thema's' en bijbehorende spullen.
 ## Schoonmaken
 * remmenreiniger, of andere ontvetter (kan schadelijk zijn voor sommige materialen)
 * IPA of contactspray (evt. een licht zuur voor verwijderen van corrosie, wel goed verwijderen daarna)
-* evt aceton voor reparatie van ABS en andere oplosbare kunststoffen
 * WD40 of ander smeermiddel
 * oude doeken, wattenstaafjes
 * evt perslucht voor stof (buiten)
@@ -53,6 +52,7 @@ Ongesorteerde, ruwe lijst van 'thema's' en bijbehorende spullen.
 * secondenlijm, nagellak
 * reparatie-tape
 * ty-raps
+* evt aceton voor reparatie van ABS en andere oplosbare kunststoffen
 * wat apparaatschroeven, boutjes/moeren/ringetjes
 
 

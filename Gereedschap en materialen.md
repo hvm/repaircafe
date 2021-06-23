@@ -56,5 +56,12 @@ Ongesorteerde, ruwe lijst van 'thema's' en bijbehorende spullen.
 * wat apparaatschroeven, boutjes/moeren/ringetjes
 
 
-
+## IT-reparaties
+* veilige, up-to-date pc of laptop voor het opzoeken van informatie, het maken van opstartmedia en het downloaden van drivers
+* media: USB-sticks, geheugenkaartjes
+* adapterkabel om harde schijven via USB aan te sluiten voor b.v. veiligstellen van gegevens of controle op virussen
+* anti-statische polsband
+* perslucht (ventilatoren), schroevendraaiers, evt. warmtegeleidende pasta
+* multimeter of voedingstester
+* beeldscherm, toetsenbord, muis
  

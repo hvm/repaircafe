@@ -57,6 +57,8 @@ Ongesorteerde, ruwe lijst van 'thema's' en bijbehorende spullen.
 
 
 ## IT-reparaties
+Vraagt specifieke kennis, maar komt vaak neer op schoonmaken, gegevens veiligstellen, of het verwijderen van virussen.
+
 * veilige, up-to-date pc of laptop voor het opzoeken van informatie, het maken van opstartmedia en het downloaden van drivers
 * media: USB-sticks, geheugenkaartjes
 * adapterkabel om harde schijven via USB aan te sluiten voor b.v. veiligstellen van gegevens of controle op virussen

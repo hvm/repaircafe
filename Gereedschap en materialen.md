@@ -4,6 +4,11 @@ Ongesorteerde, ruwe lijst van 'thema's' en bijbehorende spullen.
 * handschoenen
 * mondkapje
 
+## Werkomgeving
+* verlengsnoeren of haspels
+* tafelbescherming: stucloper, karton, plaatmateriaal
+* water/zeep, bak of teiltje, (hand)doeken
+
 ## Bewaren/beschrijven
 * bakjes voor schroeven, wat zakjes
 * pen, papier, plakband (genummerde tekeningen maken, schroefjes op de juiste plek op de tekening tapen - ideaal voor laptops e.d.)
